@@ -10,7 +10,6 @@ What is Deracoin?
 
 Deracoin is a new cryptocurrency part of a multi-wallet.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
  - 50 coins per block
 
